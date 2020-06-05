@@ -21,4 +21,7 @@ Sera desenvolvido um sistema/app para realizar o registro da coleta de reciclave
     "dev": "ts-node-dev src/server.ts"<br/>
   }<br/>
 
-##Instalação de packeges internos do back-end
+<h1>Construindo aplicação web (ReactJS)</h1>
+1- npx create-react-app web --template-typescript</br>
+--iniciar a aplicação<br/>
+2- npm start</br>
